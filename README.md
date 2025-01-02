@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Fardan Nurhidayat** <br>
 Saya seorang **Mahasiswa Prodi Teknik Informatika** di [Politeknik Negeri Cilacap](https://pnc.ac.id/) <br>
-Saya juga memiliki minat di bidang **Front-End Web Developer dan Network Engginer**. <br>
+Saya juga memiliki minat di bidang **Front-End Web Developer dan Full Stack Web Developer**. <br>
 
 
 ### Tech Stack
