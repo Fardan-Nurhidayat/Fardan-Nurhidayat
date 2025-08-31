@@ -1,45 +1,26 @@
-### Hello All !!! 👋
+<h1 align="center">Hi 👋, I'm Fardan Nurhidayat</h1>
+<h3 align="center">A passionate Frontend Developer and Full Stack Enthusiast from Indonesia</h3>
 
-<!--
-**Fardan-Nurhidayat/Fardan-Nurhidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fardan-nurhidayat&label=Profile%20views&color=0e75b6&style=flat" alt="fardan-nurhidayat" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at **Draft Coding As Full Stack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Next.Js, Golang, Python**
 
-Perkenalkan nama saya **Fardan Nurhidayat** <br>
-Saya seorang **Mahasiswa Prodi Teknik Informatika** di [Politeknik Negeri Cilacap](https://pnc.ac.id/) <br>
-Saya juga memiliki minat di bidang **Front-End Web Developer dan Full Stack Web Developer**. <br>
+- 👨‍💻 All of my projects are available at [https://fardannurhidayat.netlify.app](https://fardannurhidayat.netlify.app)
 
+- 📫 How to reach me **fardannurhidayat12@gmail.com**
 
-### Tech Stack
-  <a href="#"><img align="left" alt="HTML" title="html" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" /></a>
-  <a href="#"><img align="left" alt="CSS" title="CSS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" /></a>
-  <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="32px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" /></a>
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="#"><img align="left" alt="JQuery" title="JQuery" width="48px" src="https://belajarapaaja.net/wp-content/uploads/2023/02/JQuery-Logo.wine_.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" /></a>
- 
-  <br>
-  <br>
-  
-### Github Statistic
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Fardan-Nurhidayat">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fardan-Nurhidayat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fardan-Nurhidayat&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fardan-nurhidayat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fardan-nurhidayat/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-Intip Initp : 
-* [Instagram](https://www.instagram.com/fardan_nurhidayat/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardan-nurhidayat&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fardan-nurhidayat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardan-nurhidayat&show_icons=true&theme=dracula&locale=en" alt="fardan-nurhidayat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardan-nurhidayat&" alt="fardan-nurhidayat" /></p>
